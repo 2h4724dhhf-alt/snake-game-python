@@ -15,6 +15,8 @@ A classic Snake game made with Python and Tkinter.
 
 ## How to Run
 
+![Snake Game](screenshot.png)
+
 ```bash
 python main.py
-![Snake Game](screenshot.png)
+
