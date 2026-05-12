@@ -1,6 +1,6 @@
 # snake-game-python
 
-<img src="screenshot.png" width="400"/>
+<img src="Screenshot.png" width="400"/>
 A classic Snake game made with Python and Tkinter.
 
 ## Features
